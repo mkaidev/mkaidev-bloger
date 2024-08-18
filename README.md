@@ -35,11 +35,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-If you want to learn how to create it please follow below tutorial👇:
-➡ Tutorial Link 💚: [Create a SaaS using Next.js, Kinde-Auth, Supabase, Prisma, Stripe, and Tailwind CSS.](https://www.youtube.com/watch?v=_ypZyGeJox8)
-
 ---
 
 ## ⭐DO NOT FORGET TO STAR THIS REPO⭐
 
 ---
+
+If you want to learn how to create it please follow below tutorial👇:
+➡ Tutorial Link 💚: [Create a SaaS using Next.js, Kinde-Auth, Supabase, Prisma, Stripe, and Tailwind CSS.](https://www.youtube.com/watch?v=_ypZyGeJox8)
