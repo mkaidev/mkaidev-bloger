@@ -63,7 +63,7 @@ export default function NewSiteRoute() {
                   name={fields.subdirectory.name}
                   key={fields.subdirectory.key}
                   defaultValue={fields.subdirectory.initialValue}
-                  placeholder="Subdirectory"
+                  placeholder="subdirectory"
                 />
                 <p className="text-red-500 text-sm">
                   {fields.subdirectory.errors}
