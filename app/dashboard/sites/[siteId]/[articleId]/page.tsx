@@ -4,6 +4,7 @@ import { ArrowLeft } from "lucide-react";
 
 import prisma from "@/app/utils/db";
 import { Button } from "@/components/ui/button";
+import { EditArticleForm } from "@/app/components/dashboard/forms/EditArticleForm";
 
 async function getData(postId: string) {
   const data = await prisma.post.findUnique({
@@ -44,6 +45,8 @@ export default async function EditRoute({
         </Button>
         <h1 className="text-2xl font-semibold">Edit Article</h1>
       </div>
+
+      <EditArticleForm data={data} siteId={params.siteId} />
     </>
   );
 }
