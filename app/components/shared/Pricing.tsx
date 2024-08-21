@@ -34,7 +34,7 @@ export const PricingPlans: iAppProps[] = [
     cardTitle: "Startup",
     cardDescription: "The best pricing plan for professionals.",
     priceTitle: "$29",
-    benefits: ["Unlimited Sites", "Unimlited Visitors"],
+    benefits: ["Unlimited Sites", "Unlimited Visitors"],
   },
 ];
 
