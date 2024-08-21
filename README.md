@@ -43,3 +43,26 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 If you want to learn how to create it please follow below tutorial👇:
 ➡ Tutorial Link 💚: [Create a SaaS using Next.js, Kinde-Auth, Supabase, Prisma, Stripe, and Tailwind CSS.](https://www.youtube.com/watch?v=_ypZyGeJox8)
+
+## Environments
+
+Before start, please make sure you create .env file on the root folder and input your own environment.
+
+```bash
+KINDE_CLIENT_ID=
+KINDE_CLIENT_SECRET=
+KINDE_ISSUER_URL=
+KINDE_SITE_URL=
+KINDE_POST_LOGOUT_REDIRECT_URL=
+KINDE_POST_LOGIN_REDIRECT_URL=
+
+DATABASE_URL=""
+DIRECT_URL=""
+
+UPLOADTHING_SECRET=
+UPLOADTHING_APP_ID=
+
+STRIPE_SECRET_KEY=
+STRIPE_PRICE_ID=
+STRIPE_WEBHOOK_SECRET=
+```
